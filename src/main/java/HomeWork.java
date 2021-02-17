@@ -5,7 +5,6 @@ public class HomeWork {
 
     public static Random rand = new Random();
 
-
     public static void main(String[] args) {
         guessNumber();
 
